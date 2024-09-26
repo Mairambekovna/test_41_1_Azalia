@@ -1,0 +1,31 @@
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+#square {
+    width: 100px;
+    height: 100px;
+    background-color: #1e1a1a;
+    display: block;
+        }
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#counter {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
